@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gen Z Translator</title>
+</head>
+<body>
+    <h1>Gen Z Translator</h1>
+    <textarea id="inputText" placeholder="Enter text here..." rows="5" cols="50"></textarea>
+    <br>
+    <button id="translateButton">Translate</button>
+    <h2>Translated Text:</h2>
+    <p id="outputText"></p>
+
+    <script src="script.js"></script>
+</body>
+</html>
